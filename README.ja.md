@@ -37,6 +37,8 @@
 
 画像は Windows 版のゲーム画面です。Android 版は横画面のタッチ操作に対応しています。
 
+![Android 版のタイトル画面：横画面のタッチ操作用レイアウト](docs/images/android-menu.png)
+
 </details>
 
 ## ダウンロード

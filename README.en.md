@@ -29,13 +29,15 @@ There is lighthearted conversation, Elaina’s wry inner commentary, and stories
 - **Automatic saves:** Export and import your progress. Compatible save formats can be transferred between the Windows and Android versions.
 
 <details>
-<summary>See two more screenshots</summary>
+<summary>See more screenshots</summary>
 
 ![Story dialogue and choices](docs/images/story.png)
 
 ![Broom flight minigame](docs/images/flight.png)
 
 These screenshots are from the Windows version. The Android version is adapted for landscape touch controls.
+
+![Android main menu with landscape touch controls](docs/images/android-menu.png)
 
 </details>
 

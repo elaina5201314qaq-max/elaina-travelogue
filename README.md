@@ -27,13 +27,15 @@
 - **自动存档**：支持导出、导入进度，兼容格式的电脑与安卓存档可以互相转移。
 
 <details>
-<summary>再看两张游戏画面</summary>
+<summary>查看更多游戏画面</summary>
 
 ![旅途中的对话与选择](docs/images/story.png)
 
 ![扫帚飞行小游戏](docs/images/flight.png)
 
 以上为 Windows 版游戏画面。安卓版针对横屏触控作了适配。
+
+![安卓版首页：横屏触控布局](docs/images/android-menu.png)
 
 </details>
 
