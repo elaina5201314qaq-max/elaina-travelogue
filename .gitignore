@@ -1,0 +1,14 @@
+# This repository contains public documentation and screenshots only.
+*.exe
+*.apk
+*.zip
+*.pck
+*.keystore
+*.jks
+*.pem
+*.key
+*.env
+.godot/
+build/
+audit/
+*.log
