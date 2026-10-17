@@ -18,6 +18,13 @@ There is lighthearted conversation, Elaina’s wry inner commentary, and stories
 
 ![Main menu: Elaina and a town at dusk](docs/images/menu.png)
 
+## 1.4.0 · A travel-journal interface
+
+- A clearer Start / Continue action, with map, commissions, outfits and films together in one navigation strip.
+- A separate two-column layout with larger touch targets on Android.
+- Consistent paper-toned buttons, original line icons, keyboard focus and hover feedback. Animations respect the motion setting.
+- Existing save formats are retained, so ongoing journeys can continue.
+
 ## What you can experience
 
 - **Six journeys with branching endings:** Explore different places, talk to the people you meet, make choices, and collect small discoveries along the way.
@@ -35,6 +42,10 @@ There is lighthearted conversation, Elaina’s wry inner commentary, and stories
 
 ![Broom flight minigame](docs/images/flight.png)
 
+![Journey map and progress](docs/images/map.png)
+
+![Sound and reading settings](docs/images/settings.png)
+
 These screenshots are from the Windows version. The Android version is adapted for landscape touch controls.
 
 ![Android main menu with landscape touch controls](docs/images/android-menu.png)
@@ -47,8 +58,8 @@ Go to the **[Releases page](https://github.com/elaina5201314qaq-max/elaina-trave
 
 | Platform | Current game version | Download file | Basic requirements |
 | --- | --- | --- | --- |
-| Windows | 1.3.0 | `ElainaTravel-Windows-1.3.0.zip` | A 64-bit Windows PC |
-| Android | 1.3.1 | `ElainaTravel-Android-1.3.1.apk` | Android 7.0+, 64-bit ARM64 or x86_64, and OpenGL ES 3.0 |
+| Windows | 1.4.0 | `ElainaTravel-Windows-1.4.0.zip` | A 64-bit Windows PC |
+| Android | 1.4.0 | `ElainaTravel-Android-1.4.0.apk` | Android 7.0+, 64-bit ARM64 or x86_64, and OpenGL ES 3.0 |
 
 For Android, at least **2 GB** of free space is recommended. Both versions can be played offline after installation; no account, separate game engine, or voice model is needed.
 
@@ -60,7 +71,7 @@ The release includes `SHA256SUMS.txt`, which you can use to check the integrity 
 
 ### Windows
 
-1. Download `ElainaTravel-Windows-1.3.0.zip`.
+1. Download `ElainaTravel-Windows-1.4.0.zip`.
 2. Extract the entire archive into a folder.
 3. Double-click `伊蕾娜的旅行手记.exe` inside that folder and choose to begin your journey.
 
@@ -68,11 +79,11 @@ Extract the archive before running the game, and keep the included instructions 
 
 ### Android
 
-1. Download `ElainaTravel-Android-1.3.1.apk` on your phone.
+1. Download `ElainaTravel-Android-1.4.0.apk` on your phone.
 2. Open the APK in a file manager. If Android requests installation permission, enable “Install unknown apps” only for the file manager you are using.
 3. Once installed, play in landscape orientation. You can turn that installation permission off afterward.
 
-The current version has been tested in an Android 11 emulator for installation, touch controls, saves, narration, and CG playback. **It has not yet been tested on a physical Android phone.** If you encounter a compatibility problem, please include your phone model and Android version in your report.
+The current version has been tested in an Android 11 emulator for installation, touch controls, saved preferences, background recovery, and resuming after a cold launch. **It has not yet been tested on a physical Android phone.** If you encounter a compatibility problem, please include your phone model and Android version in your report.
 
 Windows and Android versions are currently available. There are no iOS, macOS, or Linux installation packages.
 

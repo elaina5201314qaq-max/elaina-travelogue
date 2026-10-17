@@ -16,6 +16,13 @@
 
 ![游戏首页：黄昏中的城镇与伊蕾娜](docs/images/menu.png)
 
+## 1.4.0 · 旅人手册界面
+
+- 首页突出启程与继续旅行，地图、委托、换装和映像集中在横向导航中。
+- 安卓版使用独立的双列大触控布局。
+- 统一纸色主按钮、线描图标、键盘焦点与悬停反馈；动效遵循设置中的开关。
+- 保留原有存档格式，可以继续已有旅途。
+
 ## 可以体验什么
 
 - **六篇旅途与分支结局**：在不同地方探索、交谈、作出选择，收集沿途的小发现。
@@ -33,6 +40,10 @@
 
 ![扫帚飞行小游戏](docs/images/flight.png)
 
+![旅途地图：插画与进度](docs/images/map.png)
+
+![行李箱：声音与阅读设置](docs/images/settings.png)
+
 以上为 Windows 版游戏画面。安卓版针对横屏触控作了适配。
 
 ![安卓版首页：横屏触控布局](docs/images/android-menu.png)
@@ -45,8 +56,8 @@
 
 | 平台 | 当前游戏版本 | 下载文件 | 基本要求 |
 | --- | --- | --- | --- |
-| Windows | 1.3.0 | `ElainaTravel-Windows-1.3.0.zip` | 64 位 Windows 电脑 |
-| Android | 1.3.1 | `ElainaTravel-Android-1.3.1.apk` | Android 7.0+、64 位 ARM64 或 x86_64、OpenGL ES 3.0 |
+| Windows | 1.4.0 | `ElainaTravel-Windows-1.4.0.zip` | 64 位 Windows 电脑 |
+| Android | 1.4.0 | `ElainaTravel-Android-1.4.0.apk` | Android 7.0+、64 位 ARM64 或 x86_64、OpenGL ES 3.0 |
 
 安卓建议预留至少 **2 GB** 空间。两端安装后均可离线游玩，无需账号、游戏引擎或配音模型。
 
@@ -58,7 +69,7 @@
 
 ### Windows
 
-1. 下载 `ElainaTravel-Windows-1.3.0.zip`。
+1. 下载 `ElainaTravel-Windows-1.4.0.zip`。
 2. 将整个压缩包解压到一个文件夹。
 3. 双击其中的 `伊蕾娜的旅行手记.exe`，选择开始旅行。
 
@@ -66,11 +77,11 @@
 
 ### Android
 
-1. 在手机上下载 `ElainaTravel-Android-1.3.1.apk`。
+1. 在手机上下载 `ElainaTravel-Android-1.4.0.apk`。
 2. 用文件管理器打开 APK。如果系统要求安装权限，仅为当前使用的文件管理器开启「安装未知应用」。
 3. 完成安装后横屏游玩；安装权限用完可以关闭。
 
-当前版本已在 Android 11 模拟器上做过安装、触控、存档、配音和 CG 验证，**尚未经过实体安卓手机测试**。遇到兼容性问题，欢迎反馈手机型号和系统版本。
+当前版本已在 Android 11 模拟器上验证安装、触控、设置保存、后台恢复与重新启动续读，**尚未经过实体安卓手机测试**。遇到兼容性问题，欢迎反馈手机型号和系统版本。
 
 目前提供 Windows 与 Android 版本，没有 iOS、macOS 或 Linux 安装包。
 
